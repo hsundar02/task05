@@ -1,0 +1,24 @@
+.container{
+	background-color: #e0eafbbd;
+    margin: 82px;
+    padding: 91px 50px;
+}
+.texthead{
+	text-align:center;
+}
+input, select{
+    width: 22%;
+    height: 50px;
+    margin-right: 25px;
+}
+form{
+	text-align: center;
+}
+.top{
+	margin-bottom: 20px;
+}
+.middle{
+	margin-bottom: 20px;
+}
+
+
