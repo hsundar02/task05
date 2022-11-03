@@ -20,5 +20,13 @@ form{
 .middle{
 	margin-bottom: 20px;
 }
-
+.bottom{
+	margin-bottom: 20px;
+}
+button{
+	background-color: #1475cc;
+	color: white;
+	border-radius: 15px;
+	padding: 15px;
+}
 
